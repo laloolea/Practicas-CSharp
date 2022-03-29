@@ -1,0 +1,13 @@
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/bin/Debug/netcoreapp3.1/LiveCoding2.deps.json
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/bin/Debug/netcoreapp3.1/LiveCoding2.runtimeconfig.json
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/bin/Debug/netcoreapp3.1/LiveCoding2.runtimeconfig.dev.json
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/bin/Debug/netcoreapp3.1/LiveCoding2.dll
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/bin/Debug/netcoreapp3.1/LiveCoding2.pdb
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/obj/Debug/netcoreapp3.1/LiveCoding2.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/obj/Debug/netcoreapp3.1/LiveCoding2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/obj/Debug/netcoreapp3.1/LiveCoding2.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/obj/Debug/netcoreapp3.1/LiveCoding2.AssemblyInfo.cs
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/obj/Debug/netcoreapp3.1/LiveCoding2.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/obj/Debug/netcoreapp3.1/LiveCoding2.dll
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/obj/Debug/netcoreapp3.1/LiveCoding2.pdb
+/Users/eduardogonzalez/Projects/LiveCoding2/LiveCoding2/obj/Debug/netcoreapp3.1/LiveCoding2.genruntimeconfig.cache

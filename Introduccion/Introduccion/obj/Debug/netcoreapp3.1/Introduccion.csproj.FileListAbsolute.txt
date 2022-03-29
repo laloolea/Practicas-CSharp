@@ -1,0 +1,13 @@
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/bin/Debug/netcoreapp3.1/Introduccion.deps.json
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/bin/Debug/netcoreapp3.1/Introduccion.runtimeconfig.json
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/bin/Debug/netcoreapp3.1/Introduccion.runtimeconfig.dev.json
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/bin/Debug/netcoreapp3.1/Introduccion.dll
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/bin/Debug/netcoreapp3.1/Introduccion.pdb
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/obj/Debug/netcoreapp3.1/Introduccion.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/obj/Debug/netcoreapp3.1/Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/obj/Debug/netcoreapp3.1/Introduccion.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/obj/Debug/netcoreapp3.1/Introduccion.AssemblyInfo.cs
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/obj/Debug/netcoreapp3.1/Introduccion.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/obj/Debug/netcoreapp3.1/Introduccion.dll
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/obj/Debug/netcoreapp3.1/Introduccion.pdb
+/Users/eduardogonzalez/Projects/Introduccion/Introduccion/obj/Debug/netcoreapp3.1/Introduccion.genruntimeconfig.cache
