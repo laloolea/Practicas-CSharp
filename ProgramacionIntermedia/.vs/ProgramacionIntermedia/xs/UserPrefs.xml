@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D390F997-000C-4813-A9D0-899E99E2AB4D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProgramacionIntermedia PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgramacionIntermedia/Calculadora.cs">
+    <Files>
+      <File FileName="ProgramacionIntermedia/Program.cs" Line="29" Column="15" />
+      <File FileName="ExplicacionInterface/EjemploRepeticionMetodo.cs" Line="19" Column="1" />
+      <File FileName="ProgramacionIntermedia/Vehiculo.cs" Line="4" Column="22" />
+      <File FileName="ProgramacionIntermedia/Moto.cs" Line="35" Column="10" />
+      <File FileName="ProgramacionIntermedia/Calculadora.cs" Line="19" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgramacionIntermedia" expanded="True">
+            <Node name="ExplicacionInterface" expanded="True" />
+            <Node name="ProgramacionIntermedia" expanded="True">
+              <Node name="Calculadora.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

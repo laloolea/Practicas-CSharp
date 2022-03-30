@@ -1,0 +1,13 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.dev.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.genruntimeconfig.cache

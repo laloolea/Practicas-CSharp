@@ -1,0 +1,16 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/bin/Debug/netcoreapp3.1/ProgramacionIntermedia.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/bin/Debug/netcoreapp3.1/ProgramacionIntermedia.runtimeconfig.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/bin/Debug/netcoreapp3.1/ProgramacionIntermedia.runtimeconfig.dev.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/bin/Debug/netcoreapp3.1/ProgramacionIntermedia.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/bin/Debug/netcoreapp3.1/ProgramacionIntermedia.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.genruntimeconfig.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/bin/Debug/netcoreapp3.1/ExplicacionInterface.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/bin/Debug/netcoreapp3.1/ExplicacionInterface.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/Debug/netcoreapp3.1/ProgramacionIntermedia.csproj.CopyComplete

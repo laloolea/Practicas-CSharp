@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExplicacionInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ExplicacionInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExplicacionInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExplicacionInterface/1.0.0": {
+      "type": "project",
+      "path": "../ExplicacionInterface/ExplicacionInterface.csproj",
+      "msbuildProject": "../ExplicacionInterface/ExplicacionInterface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ExplicacionInterface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/eduardogonzalez/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/ProgramacionIntermedia.csproj",
+      "projectName": "ProgramacionIntermedia",
+      "projectPath": "/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/ProgramacionIntermedia.csproj",
+      "packagesPath": "/Users/eduardogonzalez/.nuget/packages/",
+      "outputPath": "/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ProgramacionIntermedia/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/eduardogonzalez/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/ExplicacionInterface.csproj": {
+              "projectPath": "/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/ExplicacionInterface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

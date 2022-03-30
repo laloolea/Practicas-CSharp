@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProgramacionIntermedia/1.0.0": {
+        "dependencies": {
+          "ExplicacionInterface": "1.0.0"
+        },
+        "runtime": {
+          "ProgramacionIntermedia.dll": {}
+        }
+      },
+      "ExplicacionInterface/1.0.0": {
+        "runtime": {
+          "ExplicacionInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramacionIntermedia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExplicacionInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/bin/Debug/netcoreapp3.1/ExplicacionInterface.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/bin/Debug/netcoreapp3.1/ExplicacionInterface.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/bin/Debug/netcoreapp3.1/ExplicacionInterface.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/obj/Debug/netcoreapp3.1/ExplicacionInterface.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/obj/Debug/netcoreapp3.1/ExplicacionInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/obj/Debug/netcoreapp3.1/ExplicacionInterface.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/obj/Debug/netcoreapp3.1/ExplicacionInterface.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/obj/Debug/netcoreapp3.1/ExplicacionInterface.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/obj/Debug/netcoreapp3.1/ExplicacionInterface.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionIntermedia/ExplicacionInterface/obj/Debug/netcoreapp3.1/ExplicacionInterface.pdb
