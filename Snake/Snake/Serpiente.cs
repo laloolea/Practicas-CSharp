@@ -8,8 +8,8 @@ namespace Snake
     {
         List<Posicion> Cola { get; set; }
         public Direccion Direccion { get; set; }
-        int Puntos {get;set;}
-        public  bool EstaViva { get; set; }
+        public int Puntos { get; set; }
+        public bool EstaViva { get; set; }
 
         public Serpiente(int x, int y)
         {
@@ -21,7 +21,7 @@ namespace Snake
         }
         public void DibujarSerpiente()
         {
-            foreach(Posicion posicion in Cola)
+            foreach (Posicion posicion in Cola)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Util.DibujarPosicion(posicion.X, posicion.Y, "x");
@@ -29,16 +29,32 @@ namespace Snake
             }
         }
 
-        public void Morir()
+        public void ComprobarMuerte(Tablero tablero)
         {
-            throw new NotImplementedException();
+            Posicion primeraPosicion = Cola.First();
+            //Si chocamos contra nosotros
+            EstaViva = !((Cola.Count(a=> a.X ==primeraPosicion.X && a.Y==primeraPosicion.Y) >1 )
+                || CabezaEstaEnPared(tablero, primeraPosicion)); 
+          
+        }
+        
+        //Si la primera posicion esta en cualquier muro, morimos
+        private bool CabezaEstaEnPared(Tablero tablero, Posicion primeraPosicion)
+        {
+            return primeraPosicion.Y == 0 || primeraPosicion.Y == tablero.Altura || primeraPosicion.X==0 || primeraPosicion.X==tablero.Anchura;
         }
 
-        public void Moverse()
+        public void Moverse(bool haComido)
         {
             List<Posicion> nuevaCola = new List<Posicion>();
             nuevaCola.Add(ObtenerNuevaPrimeraPosicion());
             nuevaCola.AddRange(Cola);
+
+            if (!haComido)
+            {
+                nuevaCola.Remove(nuevaCola.Last());
+            }
+
             Cola = nuevaCola;
 
         }

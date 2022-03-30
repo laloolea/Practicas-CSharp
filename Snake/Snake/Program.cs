@@ -10,25 +10,42 @@ namespace Snake
             Tablero tablero = new Tablero(20, 20);
             Serpiente serpiente = new Serpiente(10, 10);
             Caramelo caramelo = new Caramelo(0, 0);
-
+            bool haComido = false;
             do
             {
                 Console.Clear();
                 tablero.DibujarTablero();
-                serpiente.Moverse();
-                serpiente.DibujarSerpiente();
-                if (!tablero.ContieneCaramelo)
+
+              
+                serpiente.ComprobarMuerte(tablero);
+                if (serpiente.EstaViva)
                 {
-                    caramelo = Caramelo.CrearCaramelo(serpiente,tablero);
+                    serpiente.Moverse(haComido);
+                    //Comprobamos si se ha comido
+                    haComido = serpiente.ComeCaramelo(caramelo, tablero);
+                    //Dibujamos serpiente
+                    serpiente.DibujarSerpiente();
+                    if (!tablero.ContieneCaramelo)
+                    {
+                        caramelo = Caramelo.CrearCaramelo(serpiente,tablero);
+                    }
+                    //Dibujamos caramelo
+                    caramelo.DibujarCaramelo();
+
+               
+                    //Leemos informacion por teclado de la direccion
+                    var sw = Stopwatch.StartNew();
+                    while (sw.ElapsedMilliseconds <= 250)
+                    {
+                        serpiente.Direccion = LeerMovimiento(serpiente.Direccion);
+                    }
                 }
-                caramelo.DibujarCaramelo();
-
-                var sw = Stopwatch.StartNew();
-                while(sw.ElapsedMilliseconds <= 250){
-                    serpiente.Direccion = LeerMovimiento(serpiente.Direccion);
+                else
+                {
+                    Util.DibujarPosicion(tablero.Anchura/2, tablero.Altura/2,"GAME OVER" );
+                    Util.DibujarPosicion(tablero.Anchura / 2, tablero.Altura / 2+1, $"Puntuacion: {serpiente.Puntos}");
+                    Console.ResetColor();
                 }
-
-
 
             } while (serpiente.EstaViva);
 
