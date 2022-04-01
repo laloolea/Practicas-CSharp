@@ -1,0 +1,9 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/bin/Debug/netcoreapp3.1/Calculadora.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/UnitTEstingMsTestIntro/Calculadora/obj/Debug/netcoreapp3.1/Calculadora.pdb
