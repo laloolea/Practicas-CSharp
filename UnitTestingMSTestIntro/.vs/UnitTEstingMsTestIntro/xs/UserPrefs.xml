@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{AD1E1735-99F8-4F90-B4C9-B803E57A6024}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Tests/CollectionSampleTests.cs">
     <Files>
-      <File FileName="Tests/CollectionSampleTests.cs" Line="9" Column="6" />
+      <File FileName="Tests/CollectionSampleTests.cs" Line="24" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
