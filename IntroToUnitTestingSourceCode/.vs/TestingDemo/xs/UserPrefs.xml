@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{B81D1D58-B533-446A-B2F9-8EB69DB2C248}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="DemoLibrary.Tests/DataAccessTests.cs">
     <Files>
-      <File FileName="DemoLibrary.Tests/DataAccessTests.cs" Line="32" Column="37" />
+      <File FileName="DemoLibrary.Tests/DataAccessTests.cs" Line="39" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,19 +10,6 @@
             <Node name="DemoLibrary" expanded="True" />
             <Node name="DemoLibrary.Tests" expanded="True">
               <Node name="DataAccessTests.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="TestingDemo" expanded="True">
-            <Node name="DemoLibrary.Tests" expanded="True">
-              <Node name="DemoLibrary.Tests" expanded="True">
-                <Node name="DataAccessTests" expanded="True">
-                  <Node name="AddPersonToPeopleList_ShouldFail(firstName: &quot;Tim&quot;, lastName: &quot;&quot;, param: &quot;LastName&quot;)" selected="True" />
-                </Node>
-              </Node>
             </Node>
           </Node>
         </State>

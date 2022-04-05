@@ -45,6 +45,10 @@ namespace ProgramacionIntermedia
             Calculadora calculadora = new Calculadora();
 
             Console.WriteLine(calculadora.Media(new List<int>() { 1, 2, 3, 4 }));
-        }   
+
+            Console.WriteLine("\n\nMetodo extendido" + "hola".PrimeraLetraMayuscula());
+
+        }
+
     }
 }
