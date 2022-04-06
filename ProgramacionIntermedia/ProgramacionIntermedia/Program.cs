@@ -49,14 +49,14 @@ namespace ProgramacionIntermedia
 
             //Console.WriteLine("\n\nMetodo extendido" + " hola".PrimeraLetraMayuscula());
 
-            var equipo = new { Nombre = "America", Ligas = 1 };
-            Test(equipo);
+            //var equipo = new { Nombre = "America", Ligas = 1 };
+            //Test(equipo);
 
-            List<Persona> personas = new List<Persona>();
-            personas.Add(new Persona() { Nombre = "Raul", Apellido = "Albiol", Edad = 33 });
-            personas.Add(new Persona() { Nombre = "Iago", Apellido = "aspas", Edad = 28 });
-            var resultado = personas.Where(a => a.Edad == 28)
-                .Select(a=> new { Nombre = a.Nombre, edad = a.Edad });
+            //List<Persona> personas = new List<Persona>();
+            //personas.Add(new Persona() { Nombre = "Raul", Apellido = "Albiol", Edad = 33 });
+            //personas.Add(new Persona() { Nombre = "Iago", Apellido = "aspas", Edad = 28 });
+            //var resultado = personas.Where(a => a.Edad == 28)
+            //    .Select(a=> new { Nombre = a.Nombre, edad = a.Edad });
 
 
             //Entero nullos
@@ -106,11 +106,34 @@ namespace ProgramacionIntermedia
             //{
             //    result = "No puede hacer nada";
             //}
-            result = conducir <= edadActual ? "Puede conducir y votar" : votar <= edadActual ?
-                "puede votar" : mayoriaEdad <= edadActual ?
-                "Es mayor de edad" : "No puede hacer nada";
-            Console.WriteLine(result);
+            //result = conducir <= edadActual ? "Puede conducir y votar" : votar <= edadActual ?
+            //     "puede votar" : mayoriaEdad <= edadActual ?
+            //    "Es mayor de edad" : "No puede hacer nada";
+            //Console.WriteLine(result);
+            //dynamic variableDinamica = 1;
+            //variableDinamica = "hola";
 
+            //dynamic valor = new Persona() { Nombre = "Raul", Apellido = "Albiol", Edad = 33 };
+
+            //Console.WriteLine(valor.Nombre+"\n\n");
+            //Console.WriteLine(valor.GetType().ToString());
+            var resultado = new OperationResult<Persona,Car>();
+            Persona p = resultado.Contenido;
+
+            var resultadoCar = new OperationResult<Car,Persona>();
+            Car c = resultadoCar.Contenido;
+            Car coche = new Car("Opel","Vectra");
+            resultadoCar.SetSuccessResponse(c);
+
+            Ejemplo ej = new Ejemplo();
+            ej.Metodo2();
+            //Desde c# cuando se llama un metodo no es necesario poner el indicador deltipo<string>
+            _ = ej.EjemploGenericMethod<string>("Hola");
+
+        }
+        static void TestDynamic(dynamic valor)
+        {
+            Console.WriteLine(valor);
 
         }
 
