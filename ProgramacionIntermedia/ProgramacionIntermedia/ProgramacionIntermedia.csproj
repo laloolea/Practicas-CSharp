@@ -8,4 +8,10 @@
   <ItemGroup>
     <ProjectReference Include="..\ExplicacionInterface\ExplicacionInterface.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Colecciones\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Colecciones\" />
+  </ItemGroup>
 </Project>

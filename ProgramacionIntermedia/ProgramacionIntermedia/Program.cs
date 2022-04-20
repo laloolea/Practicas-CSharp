@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace ProgramacionIntermedia
 {
@@ -60,28 +61,28 @@ namespace ProgramacionIntermedia
 
 
             //Entero nullos
-            TipoNullable hola = new TipoNullable(null);
-            int enteroNormal = 34;
+            //TipoNullable hola = new TipoNullable(null);
+            //int enteroNormal = 34;
 
-            if (hola.EnteroNulo.HasValue)
-            {
-                enteroNormal = hola.EnteroNulo.Value;
-            }
+            //if (hola.EnteroNulo.HasValue)
+            //{
+            //    enteroNormal = hola.EnteroNulo.Value;
+            //}
 
-            //operador terneario
-            int mayoriaEdad = 18;
-            int edadActual = 21;
-            string result;
-            //if (mayoriaEdad <= edadActual)
-            //{
-            //    result = "El usuario es mayor de edad";
-            //}
-            //else
-            //{
-            //    result = "El usuario es menor de edad";
-            //}
-            int votar = 21, conducir = 25;
-            result = mayoriaEdad <= edadActual ? "El usuario es mayor de edad" : "El usuario es menor de edad";
+            ////operador terneario
+            //int mayoriaEdad = 18;
+            //int edadActual = 21;
+            //string result;
+            ////if (mayoriaEdad <= edadActual)
+            ////{
+            ////    result = "El usuario es mayor de edad";
+            ////}
+            ////else
+            ////{
+            ////    result = "El usuario es menor de edad";
+            ////}
+            //int votar = 21, conducir = 25;
+            //result = mayoriaEdad <= edadActual ? "El usuario es mayor de edad" : "El usuario es menor de edad";
 
 
             //if(conducir <= edadActual)
@@ -117,20 +118,52 @@ namespace ProgramacionIntermedia
 
             //Console.WriteLine(valor.Nombre+"\n\n");
             //Console.WriteLine(valor.GetType().ToString());
-            var resultado = new OperationResult<Persona,Car>();
-            Persona p = resultado.Contenido;
+            //var resultado = new OperationResult<Persona,Car>();
+            //Persona p = resultado.Contenido;
 
-            var resultadoCar = new OperationResult<Car,Persona>();
-            Car c = resultadoCar.Contenido;
-            Car coche = new Car("Opel","Vectra");
-            resultadoCar.SetSuccessResponse(c);
+            //var resultadoCar = new OperationResult<Car,Persona>();
+            //Car c = resultadoCar.Contenido;
+            //Car coche = new Car("Opel","Vectra");
+            //resultadoCar.SetSuccessResponse(c);
 
-            Ejemplo ej = new Ejemplo();
-            ej.Metodo2();
-            //Desde c# cuando se llama un metodo no es necesario poner el indicador deltipo<string>
-            _ = ej.EjemploGenericMethod<string>("Hola");
+            //Ejemplo ej = new Ejemplo();
+            //ej.Metodo2();
+            ////Desde c# cuando se llama un metodo no es necesario poner el indicador deltipo<string>
+            //_ = ej.EjemploGenericMethod<string>("Hola");
+            //var stringCollection = new SampleCollection<string>();
+            //stringCollection[0] = "Hello, World";
+            //Console.WriteLine(stringCollection[0]);
+            //string frase = "hablar";
 
+            //bool isMatch = Regex.IsMatch(frase, @"\A"); //boolean if it match
+
+            //Match resultadoMatch = Regex.Match(frase, @""); // returns object about th ematch
+
+            // isMatch = Regex.IsMatch(frase, @"(^[h])([r]$)");
+            //string[] arrayfrases = Regex.Split(frase, ",");
+
+            //Console.WriteLine(isMatch);
+            //var regex = new Regex("patron");
+            //Regex.Match(frase, "patron"); // Metodo más utilizado
+
+
+            //Tuple<string, string, int> coche = new Tuple<string,string,int>("audi","a3",2008);
+            //var coche2 = Tuple.Create("opel", "astra", 2005);
+
+            //Console.WriteLine($"{coche.Item1}, {coche.Item2}");
+
+            ////Value tuple representacion por valor de la tupla
+            ////ImprimirCoche(coche);
+
+            //(string marca,string modelo,int year) moto1 = ("Derbi", "variant", 1980);
+
+            //ImprimirCoche(moto1) ;
+            //(string marcaMoto2, string modeloMoto2, int yearMoto2) = GetMotoDatabase();
+            //Console.WriteLine(marcaMoto2
         }
+
+
+        
         static void TestDynamic(dynamic valor)
         {
             Console.WriteLine(valor);
@@ -147,5 +180,24 @@ namespace ProgramacionIntermedia
             }
         }
 
+        public (string, string, int) GetMotoDatabase()
+        {
+            return ("Honda", "CBR", 2005);
+        }
+        public void ImprimirCoche((string, string, int) coche)
+        {
+            Console.WriteLine($"El primer coche es un {coche.Item1} {coche.Item2} del año {coche.Item3}");
+        }
+
+        public void ImprimirCoche(Tuple<string, string, int> coche)
+        {
+            Console.WriteLine($"El primer coche es un {coche.Item1} {coche.Item2} del año {coche.Item3}");
+        }
+        public Tuple<string, string, int> CalcularCoche3()
+        {
+            return Tuple.Create("Ford", "Fiesta", 2009);
+        }
+
     }
+
 }

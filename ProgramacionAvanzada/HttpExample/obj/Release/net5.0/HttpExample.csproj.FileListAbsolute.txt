@@ -1,0 +1,15 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/bin/Release/net5.0/HttpExample.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/bin/Release/net5.0/HttpExample.runtimeconfig.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/bin/Release/net5.0/HttpExample.runtimeconfig.dev.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/bin/Release/net5.0/HttpExample.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/bin/Release/net5.0/ref/HttpExample.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/bin/Release/net5.0/HttpExample.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/HttpExample.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/HttpExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/HttpExample.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/HttpExample.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/HttpExample.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/HttpExample.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/ref/HttpExample.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/HttpExample.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/ProgramacionAvanzada/HttpExample/obj/Release/net5.0/HttpExample.genruntimeconfig.cache

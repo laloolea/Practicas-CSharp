@@ -1,0 +1,12 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/bin/Debug/net6.0/EFDataAccessLibrary.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/bin/Debug/net6.0/EFDataAccessLibrary.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/bin/Debug/net6.0/EFDataAccessLibrary.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/EFDataAccessLibrary.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/EFDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/EFDataAccessLibrary.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/EFDataAccessLibrary.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/EFDataAccessLibrary.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/refint/EFDataAccessLibrary.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/EFDataAccessLibrary.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/EFDemoApp/EFDataAccessLibrary/obj/Debug/net6.0/ref/EFDataAccessLibrary.dll

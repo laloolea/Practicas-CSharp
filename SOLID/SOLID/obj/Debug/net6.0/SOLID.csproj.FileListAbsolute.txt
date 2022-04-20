@@ -1,0 +1,15 @@
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/bin/Debug/net6.0/SOLID
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/bin/Debug/net6.0/SOLID.deps.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/bin/Debug/net6.0/SOLID.runtimeconfig.json
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/bin/Debug/net6.0/SOLID.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/bin/Debug/net6.0/SOLID.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/SOLID.csproj.AssemblyReference.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfoInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfo.cs
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/SOLID.csproj.CoreCompileInputs.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/SOLID.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/refint/SOLID.dll
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/SOLID.pdb
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/SOLID.genruntimeconfig.cache
+/Users/eduardogonzalez/Documents/Practicas-CSharp/SOLID/SOLID/obj/Debug/net6.0/ref/SOLID.dll

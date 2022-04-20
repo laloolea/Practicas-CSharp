@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{854C3857-3C00-4BD4-877E-632FC71CD3AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRChat.Client/Pages/Chat.razor">
+    <Files>
+      <File FileName="ProgramacionAvanzada/Program.cs" Line="71" Column="8" />
+      <File FileName="ProgramacionAvanzada/ChatHub.cs" Line="16" Column="10" />
+      <File FileName="SignalRChat.Client/Pages/Chat.cshtml" Line="3" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgramacionAvanzada" expanded="True">
+            <Node name="HttpExample" expanded="True" />
+            <Node name="PrintAll" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+            <Node name="ProgramacionAvanzada" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="SignalRChat.Client" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.ProgramacionAvanzada PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SignalRChat.Client FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
